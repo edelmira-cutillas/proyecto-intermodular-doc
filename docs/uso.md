@@ -1,21 +1,20 @@
-# Uso
+# 🧭 Uso
 
-## Usuarios tipo
+## 👥 Usuarios tipo
 - *Bibliotecario*
 - *Usuario lector*
 
-## Casos de uso
-- Consultar libros disponibles
+## 📌 Casos de uso
+- Consultar libros
 - Gestionar préstamos
-- Visualizar información de la biblioteca
+- Visualizar información
 
-## Capturas de pantalla
-![Pantalla principal del gestor](img/home.png)
+## 🖼 Captura de pantalla
+![Pantalla principal](img/home.png)
 
-## Ejemplo de código en línea
-Para iniciar el servidor se utiliza el comando `npm start`.
+## 💻 Código en línea
+El sistema se inicia con el comando `npm start`.
 
-## Bloque de código
+## 🧾 Bloque de código
 ```bash
 git clone https://github.com/edelmira-cutillas/proyecto-intermodular-doc
-
