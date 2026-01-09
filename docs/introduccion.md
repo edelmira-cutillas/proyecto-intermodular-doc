@@ -1,7 +1,8 @@
-# Introducción
+# 📖 Introducción
 
-## Objetivo del proyecto
-El objetivo del proyecto es desarrollar un **gestor de biblioteca web** que permita organizar libros, gestionar usuarios y controlar préstamos de forma sencilla.
+## 🎯 Objetivo del proyecto
+Desarrollar un **gestor de biblioteca web** que facilite el control de libros y préstamos.
 
-## Problema que resuelve
-Muchas bibliotecas pequeñas no cuentan con un sistema digital. Este proyecto ofrece una solución básica, accesible y fácil de usar.
+## ❓ Problema que resuelve
+Muchas bibliotecas pequeñas no disponen de herramientas digitales accesibles.
+Este proyecto ofrece una solución sencilla y clara.
