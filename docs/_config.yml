@@ -1,1 +1,12 @@
+title: Gestor de Biblioteca Web
+description: Documentación técnica del proyecto intermodular
+theme: minima
 
+header_pages:
+  - index.md
+  - introduccion.md
+  - instalacion.md
+  - uso.md
+  - arquitectura.md
+  - conclusiones.md
+  - referencias.md
