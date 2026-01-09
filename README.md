@@ -1,14 +1,17 @@
-# Gestor de Biblioteca Web
+# 📚 Gestor de Biblioteca Web
 
-Proyecto web que permite gestionar una biblioteca digital, facilitando el control de libros, usuarios y préstamos.
+Proyecto web para la gestión de una biblioteca digital, permitiendo organizar libros, usuarios y préstamos.
 
-La documentación está redactada en Markdown y publicada como web estática mediante GitHub Pages.
+La documentación está desarrollada con **Markdown** y publicada mediante **GitHub Pages**.
 
-## Tecnologías utilizadas
+## 🚀 Tecnologías utilizadas
 - Git
 - GitHub
 - Markdown
 - GitHub Pages
+- HTML
+- CSS
+- Jekyll
 
-## Autor
+## 👤 Autor
 - Edelmira Cutillas
