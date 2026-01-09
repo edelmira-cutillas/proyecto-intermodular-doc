@@ -1,15 +1,13 @@
-# Conclusiones
+# ✅ Conclusiones
 
-## Dificultades encontradas
-- Aprender la estructura correcta de GitHub Pages
-- Organización de la documentación
+## ⚠️ Dificultades
+- Configuración inicial de GitHub Pages
 
-## Aprendizajes
-- Redacción de documentación técnica
-- Uso de Markdown
-- Publicación web estática
+## 📘 Aprendizajes
+- Documentación técnica
+- Uso de Markdown y Jekyll
 
-## Posibles mejoras
-- Añadir más funcionalidades al gestor
-- Mejorar el diseño visual
-- Incorporar una base de datos real
+## 🔮 Posibles mejoras
+- Base de datos real
+- Sistema de usuarios
+- Mejor diseño visual
