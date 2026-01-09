@@ -1,21 +1,15 @@
-# Arquitectura
+# 🏗 Arquitectura
 
-## Diagrama del sistema
-![Diagrama de arquitectura](img/arquitectura.png)
+## 🧩 Diagrama del sistema
+![Arquitectura](img/arquitectura.png)
 
-## Explicación técnica
-El proyecto sigue una arquitectura web sencilla basada en una interfaz cliente que accede a los datos de la biblioteca.
+## ⚙️ Explicación técnica
+El sistema sigue una arquitectura web sencilla orientada a la gestión de información.
 
-## Tecnologías utilizadas
-- Markdown
-- GitHub Pages
-- HTML
-- CSS
+## 🧰 Tecnologías
 
-## Tabla de componentes
-
-| Componente | Función |
-|-----------|--------|
-| Frontend  | Interfaz de usuario |
-| Datos     | Gestión de libros |
-| Hosting   | GitHub Pages |
+| Tecnología | Uso |
+|----------|-----|
+| Markdown | Documentación |
+| GitHub Pages | Publicación |
+| Jekyll | Tema web |
