@@ -1,6 +1,6 @@
 title: Gestor de Biblioteca Web
 description: Documentación técnica del proyecto intermodular
-theme: jekyll-theme-cayman
+theme: minima
 
 header_pages:
   - index.md
