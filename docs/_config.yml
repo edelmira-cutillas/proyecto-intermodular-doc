@@ -1,12 +1,23 @@
-title: Gestor de Biblioteca Web
-description: Documentación técnica del proyecto intermodular
-theme: minima
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+plugins:
+  - jekyll-remote-theme
 
-header_pages:
-  - index.md
-  - introduccion.md
-  - instalacion.md
-  - uso.md
-  - arquitectura.md
-  - conclusiones.md
-  - referencias.md
+title: Gestor de Biblioteca Web
+description: Documentación técnica
+
+# Sidebar navigation
+navigation:
+  - name: Inicio
+    link: ./index.html
+  - name: Introducción
+    link: ./introduccion.html
+  - name: Instalación
+    link: ./instalacion.html
+  - name: Uso
+    link: ./uso.html
+  - name: Arquitectura
+    link: ./arquitectura.html
+  - name: Conclusiones
+    link: ./conclusiones.html
+  - name: Referencias
+    link: ./referencias.html
