@@ -16,5 +16,6 @@
 El sistema se inicia con el comando `npm start`.
 
 ## 🧾 Bloque de código
+
 ```bash
 git clone https://github.com/edelmira-cutillas/proyecto-intermodular-doc
