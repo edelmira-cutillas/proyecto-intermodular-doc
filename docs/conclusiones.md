@@ -3,11 +3,11 @@
 ## ⚠️ Dificultades
 - Configuración inicial de GitHub Pages
 
-## 📘 Aprendizajes
+## Aprendizajes
 - Documentación técnica
 - Uso de Markdown y Jekyll
 
-## 🔮 Posibles mejoras
+## Posibles mejoras
 - Base de datos real
 - Sistema de usuarios
 - Mejor diseño visual
