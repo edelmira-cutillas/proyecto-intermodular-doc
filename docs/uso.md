@@ -15,8 +15,13 @@
 ## 💻 Código en línea
 El sistema se inicia con el comando `npm start`.
 
-## 🧾 Bloque de código
+## 🧾 Bloques de código
 
 ```bash
 git clone https://github.com/edelmira-cutillas/proyecto-intermodular-doc
+```
+
+```bash
+sudo apt update
+sudo apt install apache2 -y
 ```
