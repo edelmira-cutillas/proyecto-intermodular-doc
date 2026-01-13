@@ -1,9 +1,10 @@
-remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+title: Mi proyecto intermodular
+description: Documentación del proyecto intermodular
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
-
-title: Gestor de Biblioteca Web
-description: Documentación técnica
+show_downloads: false
+markdown: kramdown
 
 # Sidebar navigation
 navigation:
