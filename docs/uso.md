@@ -9,7 +9,7 @@
 - Gestionar préstamos
 - Visualizar información
 
-## 🖼 Captura de pantalla
+## Captura de pantalla
 ![Pantalla principal](img/home.png)
 
 ## 💻 Código en línea
