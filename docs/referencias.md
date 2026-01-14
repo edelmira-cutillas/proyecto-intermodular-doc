@@ -1,3 +1,8 @@
+---
+title: Referencias
+nav_order: 7
+---
+
 # 🔗 Referencias
 
 - [GitHub Docs](https://docs.github.com)
