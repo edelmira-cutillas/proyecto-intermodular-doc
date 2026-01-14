@@ -1,3 +1,8 @@
+---
+title: Introducción
+nav_order: 2
+---
+
 # 📖 Introducción
 
 ## 🎯 Objetivo del proyecto
