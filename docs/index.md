@@ -1,3 +1,9 @@
+---
+layout: default
+title: Documentación del Proyecto Intermodular
+nav_order: 1
+---
+
 # 📚 Gestor de Biblioteca Web
 
 Bienvenido a la documentación técnica del proyecto intermodular.
