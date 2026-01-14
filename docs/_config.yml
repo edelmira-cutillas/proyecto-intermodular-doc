@@ -5,20 +5,3 @@ plugins:
   - jekyll-remote-theme
 show_downloads: false
 markdown: kramdown
-
-# Sidebar navigation
-navigation:
-  - name: Inicio
-    link: ./index.html
-  - name: Introducción
-    link: ./introduccion.html
-  - name: Instalación
-    link: ./instalacion.html
-  - name: Uso
-    link: ./uso.html
-  - name: Arquitectura
-    link: ./arquitectura.html
-  - name: Conclusiones
-    link: ./conclusiones.html
-  - name: Referencias
-    link: ./referencias.html
